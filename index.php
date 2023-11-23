@@ -49,7 +49,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/4.6.1/css/bootstrap.min.css">
 
     <!-- custome css file link -->
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="style.css">
 
     <!--for scrolling image css-->
     <!--link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css"-->
